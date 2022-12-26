@@ -1,3 +1,9 @@
+# **ITU Homepage**
+
+İTÜ Öğrencileri için Web Tarayıcısı Açılış Sayfası.
+
+Bu proje, _ITU Helper_'in kaynak kodlarını kullanmaktadır. _ITU Helper_'a ulaşmak için [_buraya_](https://itu-helper.github.io/home/) tıklayabilirsiniz.
+
 <div align="center">
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/itu-helper/home/pages%20build%20and%20deployment?label=Page%20Deployment&style=flat-square)](https://github.com/itu-helper/home/actions/workflows/pages/pages-build-deployment)
